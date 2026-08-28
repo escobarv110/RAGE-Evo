@@ -18,6 +18,8 @@ RAGE Evo supports both **XML** and the game's **native binary files**, allowing 
 - **Lights & Occluders** - Create and edit GTA V lights and occluders
 - **Assets Library** - Browse and place GTA V props directly into your scene
 
+<img width="800" height="820" alt="12321231321321" src="https://github.com/user-attachments/assets/f9e29b53-020c-40fe-87b2-60767c120974" />
+
 ## Installation
 1. Download and extract the RAGE Evo ZIP.
 2. Keep the RAGE Evo folder together.
