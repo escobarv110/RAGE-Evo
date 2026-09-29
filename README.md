@@ -45,12 +45,10 @@ RAGE Evo supports both **XML** and the game's **native binary files**, allowing 
 
 ## Credits
 **Created by Escobar with assistance from Claude AI.**
-
-Special thanks to:
-- **GIMS EVO by 3Doomer**
-- **CodeWalker by dexyfex**
-- **Sollumz**
-- **OpenIV**
+- This project is based on **[GIMS EVO by 3Doomer](https://github.com/3Doomer/GIMS-Evo)**, 
+  - including fixes and improvements from **[kirill-mapper's fork](https://github.com/kirill-mapper/GIMS-Evo)**.
+- Portions of code from **[CodeWalker by dexyfex](https://github.com/dexyfex/CodeWalker)**
+and **[Sollumz](https://github.com/Skylumz/Sollumz)** are also used. 
 
 These projects and their developers have contributed significantly to the GTA V modding community and served as references during development.
 
